@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.imgStyle {
+ width: 200px;
+}
+
+.imgStyleDesc {
+    width: 320px;
+}
+
+.imgStyleSmall {
+    width: 50px;
+}
+
+.shoppingCart {
+    min-width: 300px;
+}
